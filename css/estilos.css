@@ -19,3 +19,16 @@ body
 #container h1{
     font-size: 20px;
 }
+
+#cabecera{
+    font-style: oblique;
+    color: aqua;
+    background-color: darkslateblue;
+}
+
+#tagline{
+    padding-left: 25px;
+    color: aliceblue;
+    font-family: cursive;
+}
+
